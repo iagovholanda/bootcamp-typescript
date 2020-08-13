@@ -1,0 +1,8 @@
+{
+  "name": "bootcamp-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iagovholanda/bootcamp-typescript.git",
+  "author": "Iago Holanda <iagogholanda@gmail.com>",
+  "license": "MIT"
+}
