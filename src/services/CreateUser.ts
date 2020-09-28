@@ -19,6 +19,7 @@ interface CreateUserData {
   name?: string
   email: string
   password: string
+  /* Tipo variavel em recebimento de objeto. */
   techs: Array<string | TechObject>
 }
 
